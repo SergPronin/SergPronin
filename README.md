@@ -2,84 +2,52 @@
 
 💻 Fullstack Developer
 
-I build backend services and web applications using **Java, Python and modern web technologies**.
-Interested in **system design, scalable systems, and IoT projects**.
-
 ---
 
-## 🧑‍💻 About
+## 🚀 Tech Stack
 
-* Fullstack developer
-* Backend focused (Java / Python)
-* Interested in system architecture and backend development
-* Working with web applications and hardware projects
+### Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,php,html,css" />
+</p>
 
-## 💻 Languages
+### Backend
 
-* Java
-* Python
-* C / C++
-* JavaScript
-* PHP
-* SQL
-* HTML5
-* CSS
+<p>
+<img src="https://skillicons.dev/icons?i=spring,django,fastapi" />
+</p>
 
----
+### Databases
 
-## ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
+</p>
 
-* Spring Boot
-* Spring / Hibernate
-* Django
-* FastAPI
-* REST API
+### Tools
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=git,gitlab,docker,nginx,maven,postman" />
+</p>
 
-## 🗄 Databases
+### Other
 
-* PostgreSQL
-* MySQL
-* SQLite
-* Redis
-* MongoDB
-
----
-
-## 🛠 Tools
-
-* Git / GitLab
-* Docker
-* Nginx
-* Maven
-* Postman
-* Jupyter
-* Obsidian
-* Homebrew
-
----
-
-## 📱 Other Technologies
-
-* Android
-* Kotlin
-
----
-
-## 🤖 Hardware / IoT
-
-* Arduino
-* ESP32
-* Sensors
-* Embedded projects
+<p>
+<img src="https://skillicons.dev/icons?i=android,kotlin,arduino" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SergPronin\&show_icons=true\&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=SergPronin\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergPronin\&layout=compact\&theme=tokyonight)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SergPronin\&layout=compact\&theme=tokyonight)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=SergPronin\&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake](https://github.com/SergPronin/SergPronin/blob/output/github-contribution-grid-snake.svg)
